@@ -20,8 +20,9 @@ Programming Language: Python
 GUI Framework: Tkinter
 Packaging Tool: PyInstaller
  Developed By
-Developer: Your Name
-Project Type: Academic / Educational Project
+Developer: Siraj ud din , Owais Shehzad, Farhan Fiaz
+Roll no : 74 , 79, 83
+Project Type: Academic Project
 Domain: Operating Systems
  Objective
 This project aims to bridge the gap between theoretical concepts and practical understanding by providing a visual and interactive platform for learning memory management techniques in operating systems.
