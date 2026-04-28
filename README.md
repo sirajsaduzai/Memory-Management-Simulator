@@ -21,7 +21,6 @@ GUI Framework: Tkinter
 Packaging Tool: PyInstaller
  Developed By
 Developer: Siraj ud din , Owais Shehzad, Farhan Fiaz
-Roll no : 74 , 79, 83
 Project Type: Academic Project
 Domain: Operating Systems
  Objective
