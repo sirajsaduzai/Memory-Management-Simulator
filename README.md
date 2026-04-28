@@ -7,7 +7,7 @@ First Fit
 Best Fit
 Next Fit
 Worst Fit
-Dynamic Allocation & Deallocation
+Deallocation
 Efficient handling of process memory usage
 Paging
 Fixed-size frames and pages
